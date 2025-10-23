@@ -1,4 +1,4 @@
-##Geomtry Dash Phonk Mod
+## Geomtry Dash Phonk Mod
 
 This Mod creates a phonk edit every time you input.
 
