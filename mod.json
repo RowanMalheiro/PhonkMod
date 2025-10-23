@@ -10,7 +10,8 @@
 	"name": "PhonkMod",
 	"version": "v1.0.0",
 	"developer": "zMarc",
-	"description": "",
+	"description": "Phonk edits in GD",
+	"tags": ["joke", "gameplay"],
 	"resources": {
 		"files": [
 			"resources/audio/*.ogg"
