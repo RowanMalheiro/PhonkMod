@@ -12,7 +12,7 @@
 #include "AudioInfo.hpp"
 
 #define NUM_IMAGES 7
-#define PAUSE_DUR 5.f
+#define PAUSE_DUR 2.5f
 
 using namespace geode::prelude;
 
