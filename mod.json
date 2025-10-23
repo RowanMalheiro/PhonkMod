@@ -1,0 +1,24 @@
+{
+	"geode": "4.4.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "zmarc.phonkmod",
+	"name": "PhonkMod",
+	"version": "v1.0.0",
+	"developer": "zMarc",
+	"description": "",
+	"resources": {
+		"files": [
+			"resources/audio/*.ogg"
+		],
+		"spritesheets": {
+			"SigmaImages": [
+				"resources/sprites/*.png"
+			]
+		}
+	}
+}
